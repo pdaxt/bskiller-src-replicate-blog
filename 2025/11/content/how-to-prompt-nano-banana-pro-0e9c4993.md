@@ -1,0 +1,1 @@
+Nano Banana Pro brings powerful new capabilities in image generation and editing. Here are the main prompt tricks you should know.
