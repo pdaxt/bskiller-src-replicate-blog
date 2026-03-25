@@ -1,0 +1,1 @@
+Advanced face swap and AI avatars from Easel AI are now on Replicate.
