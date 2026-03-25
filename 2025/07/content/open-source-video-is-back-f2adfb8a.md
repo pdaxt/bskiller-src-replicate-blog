@@ -1,0 +1,1 @@
+Wan 2.2 is our fastest, cheapest video model.
