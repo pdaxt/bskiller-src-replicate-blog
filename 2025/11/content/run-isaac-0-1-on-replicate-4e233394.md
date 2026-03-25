@@ -1,0 +1,1 @@
+Isaac 0.1 is a lightweight, grounded vision-language model built for real-world perception.
