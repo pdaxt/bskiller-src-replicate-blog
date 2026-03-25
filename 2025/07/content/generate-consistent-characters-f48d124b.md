@@ -1,0 +1,1 @@
+We compare the best image models for generating consistent characters from a single reference image.
