@@ -1,0 +1,1 @@
+Use our MCP to discover, compare, and run models from apps like Claude, Cursor, and VS Code.
