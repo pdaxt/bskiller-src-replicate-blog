@@ -1,0 +1,57 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 6.8,
+  "bs_rating": "Mixed Signals",
+  "career_angle": "Consider how this development might affect your role. The skills that matter are shifting - make sure yours are shifting with them.",
+  "factors": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "Replicate Blog classified as tier_5 (unclassified or low-reliability source, reliability: 20%)",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "no benchmarks, datasets, or peer-reviewed citations in this Replicate Blog article",
+      "score": 1.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "open source / code available; methodology described",
+      "score": 7.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "no overt promotional language in this Replicate Blog piece, independence unconfirmed",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "claims not cross-referenced against external expert consensus",
+      "score": 4.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "no vague hedging language detected",
+      "score": 3.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Replicate Blog: insufficient history to assess; 1 green flags detected (+0.5)",
+      "score": 2.5,
+      "weight": 0.1
+    }
+  ]
+}
