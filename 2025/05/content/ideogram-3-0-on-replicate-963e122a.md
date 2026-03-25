@@ -1,0 +1,1 @@
+Ideogram 3.0 is packed with powerful design, style transfer, and realism capabilities.
