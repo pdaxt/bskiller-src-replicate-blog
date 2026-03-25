@@ -1,0 +1,1 @@
+FLUX.2 brings professional-grade image generation and editing with unprecedented detail, multi-reference support, and enterprise efficiency.
