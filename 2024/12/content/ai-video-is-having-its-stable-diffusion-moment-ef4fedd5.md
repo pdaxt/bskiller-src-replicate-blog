@@ -1,0 +1,1 @@
+There are lots of models that are as good as OpenAI's Sora now.
