@@ -1,0 +1,1 @@
+A deep-dive into the Taylor Seer optimization technique
