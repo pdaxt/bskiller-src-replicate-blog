@@ -1,0 +1,1 @@
+We've partnered with Hugging Face to bring Replicate inference to their platform.
