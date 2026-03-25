@@ -1,0 +1,1 @@
+MiniMax's Speech-02 models give you high-quality text-to-speech with voice cloning, emotional expression, and multilingual support.
