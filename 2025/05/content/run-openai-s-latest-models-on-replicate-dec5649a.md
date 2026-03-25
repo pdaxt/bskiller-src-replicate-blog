@@ -1,0 +1,1 @@
+OpenAI's latest models are now available on Replicate, including GPT-4.1, GPT-4o, and the o-series.
