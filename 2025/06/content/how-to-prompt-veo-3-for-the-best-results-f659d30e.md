@@ -1,0 +1,1 @@
+Learn expert prompting techniques to create stunning videos with Google's Veo 3.
